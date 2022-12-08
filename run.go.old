@@ -1,0 +1,15 @@
+//func (s *server) run() {
+//	for cmd := range s.commands {
+//		switch cmd.id {
+//		case CMD_NAME:
+//			s.name0(cmd.User, cmd.args)
+//		case CMD_LIST_USERS:
+//			s.listall0(cmd.User, cmd.args)
+//		case CMD_QUIT:
+//			s.quit0(cmd.User, cmd.args)
+//		case CMD_FILE:
+//			s.receiveFile(cmd.User.conn, cmd.args)
+//		}
+//
+//	}
+//}
